@@ -17,9 +17,9 @@ Time log Doreen
 
 |Date|Time|Task|Comments|
 |----|----|----|--------|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
+|26-07-21|13:00-16:00|Making a planning|well done with the team|
+|27:07||10:00-12:00|Self study ElasticSearch service and Well architected and Kibana|
+|27:07|13:30-16:00|...|...|
 |...|...|...|...|
 |...|...|...|...|
 |...|...|...|...|
