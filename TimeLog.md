@@ -5,7 +5,7 @@ Time log Wessel
 |Date|Time|Task|Comments|
 |----|----|----|--------|
 |27-06-21|10:00-11:00|Creating a github Repo|Made the TimeLog file and the documentation file.|
-|...|...|...|...|
+|27-06-21|11:00|Researching aws cloud architecture|...|
 |...|...|...|...|
 |...|...|...|...|
 |...|...|...|...|
