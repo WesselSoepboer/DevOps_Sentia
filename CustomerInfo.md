@@ -2,11 +2,9 @@
 
 Currently in use:
 
-1.Currently hosting a customer facing web application based on a NodeJS application behind an NGINX reverse proxy
-
-2.Using a MongoDB cluster for storing data. 
-
-3.An FTP server for document storage
+1. Currently hosting a customer facing web application based on a NodeJS application behind an NGINX reverse proxy
+2. Using a MongoDB cluster for storing data. 
+3. An FTP server for document storage
 
 1. Maintain a cron server, mostly Bash and Python scripts, relevant to a small amount of jobs that need to be executed a few timer per day(no more than once per hour).
 2. All above services are hosted on severak virtual machines.
@@ -17,15 +15,11 @@ Currently in use:
     
 Dev-ops Deliverables
 
-1.An architectural design for all the components and all the environments
-
-2.An IaC project for deploying an MVP demo (excluding the CRON and the Elasticsearch requirements).
-
-For AWS, write your IaC using: AWS CDK (Preferrred), or alternatively with AWS CloudFormation.
-
-3.Include a simple time log of the activities you have performed.
-
-4.Document any assumptions and decisions you have made.
+1. An architectural design for all the components and all the environments
+2. An IaC project for deploying an MVP demo (excluding the CRON and the Elasticsearch requirements).
+3. For AWS, write your IaC using: AWS CDK (Preferrred), or alternatively with AWS CloudFormation.
+4. .Include a simple time log of the activities you have performed.
+5. Document any assumptions and decisions you have made.
 
 1. A GIT repo with all the above.
 
