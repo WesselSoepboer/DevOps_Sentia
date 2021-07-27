@@ -6,8 +6,8 @@ Time log Wessel
 |----|----|----|--------|
 |27-06-21|10:00-11:00|Creating a github Repo|Made the TimeLog file and the documentation file.|
 |27-06-21|11:00-11:40|organizing the project demands|Made the customerInfo file|
-|...|...|...|...|
-|...|...|...|...|
+|27-06-21|13:00-14:30|Translating customer demands and needs to AWS services|...|
+|27-06-21|14:30|First draft of the architecture|...|
 |...|...|...|...|
 |...|...|...|...|
 |...|...|...|...|
