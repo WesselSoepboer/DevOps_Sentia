@@ -7,7 +7,7 @@ Currently in use:
 3. An FTP server for document storage
 
 1. Maintain a cron server, mostly Bash and Python scripts, relevant to a small amount of jobs that need to be executed a few timer per day(no more than once per hour).
-2. All above services are hosted on severak virtual machines.
+2. All above services are hosted on several virtual machines.
 3. The customer has 3 environments:
     1. Test
     2. Acceptance 
