@@ -29,10 +29,10 @@ Time log Oualid
 Time log Doreen
 
 |Date|Time|Task|Comments|
-|----|----|----|--------|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
+|26-07-21|10:00|Start Planning with the Team|
+|26-07-21|11:00|Create Documentation|Outlining the DevOps project|
+|27-07-21|10:00|Continue Doc and upload to Github|
+|27-07-21|11:00 - 16:30|Researching basic architectures|Help kickstart the project|
 |...|...|...|...|
 |...|...|...|...|
 |...|...|...|...|
