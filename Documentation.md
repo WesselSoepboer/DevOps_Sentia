@@ -2,7 +2,6 @@
 
 DevOps Documentation
 
-
 Product Owner: Coen Meulenkamp
 Scrummaster:
 Developers: Oualid, Lior, Wessel and Doreen
@@ -50,9 +49,6 @@ Parameters
 CloudWatch logs
 ElasticSearch Service
 
-
-
-
 The current On Premise environment of Sentia Recruitment vs the managed services we would like to use in AWS 
 
 On Premise
@@ -70,14 +66,6 @@ DynamoDB/S3
 Kibana Dashboard
 ElasticSearch Service
 
-
-
-
-
-
-
-
-
 Requirements
 (must) be scalable and flexible.
 (must) utilize managed services as much as possible.
@@ -87,11 +75,6 @@ Cost Optimization
 Assignment
 The main assignment is to transform and migrate the 3 environments to the Public Cloud. These consist of Test, Acceptance and Production
 
-
-
-
-
-
 Tomorrow
 
 Update Wessel 
@@ -99,9 +82,6 @@ Github account
 Kibana gebeuren (Elasticsearch service) 
 Inplannen (Jira/Poker) 
 Een start maken met de Architectuur 
-
-
-
 
 Deliverables
 Please provide the following:
@@ -112,6 +92,3 @@ for Azure, write your IaC using: Bicep (preferred), or alternatively with ARM Te
 Include a simple time log of the activities you have performed.
 Document any assumptions and decisions you have made.
 A GIT repo with all the above.
-
->>>>>>> 6b4f5a9b87000bc24db8c76b9c9c10505fbd7bf7
-
