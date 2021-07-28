@@ -18,10 +18,10 @@ Time log Oualid
 |Date|Time|Task|Comments|
 |----|----|----|--------|
 |26-07-21|13:00-16:00|Making a planning|well done with the team|
-|27:07|10:00-12:00|Self study ElasticSearch service and Well architected and Kibana||
-|27:07|13:30-16:00|...|...|
-|...|...|...|...|
-|...|...|...|...|
+|27-07|10:00-12:00|Self study ElasticSearch service and Well architected and Kibana||
+|27-07|13:30-16:00|...|...|
+|28-07|10:00-11:00|Studying the 6 R's Strategeis|Youtube|
+|28-07|11:00|Figure out which strategie we need to use for our project|as a team maybe?|
 |...|...|...|...|
 |...|...|...|...|
 |...|...|...|...|
