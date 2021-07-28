@@ -4,12 +4,12 @@ Time log Wessel
 
 |Date|Time|Task|Comments|
 |----|----|----|--------|
-|27-06-21|10:00-11:00|Creating a github Repo|Made the TimeLog file and the documentation file.|
-|27-06-21|11:00-11:40|organizing the project demands|Made the customerInfo file|
-|27-06-21|13:00-14:30|Translating customer demands and needs to AWS services|...|
-|27-06-21|14:30|First draft of the architecture|...|
-|...|...|...|...|
-|...|...|...|...|
+|27-07-21|10:00-11:00|Creating a github Repo|Made the TimeLog file and the documentation file.|
+|27-07-21|11:00-11:40|organizing the project demands|Made the customerInfo file|
+|27-07-21|13:00-14:30|Translating customer demands and needs to AWS services|...|
+|27-07-21|14:30-16:30|First draft of the architecture|...|
+|28-07-21|9:30-10:00|Daily standup|Decided to do research all day|
+|28-07-21|10:00-12:00|AWS architecture and migration research|...|
 |...|...|...|...|
 |...|...|...|...|
 
