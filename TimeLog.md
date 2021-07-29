@@ -10,6 +10,15 @@ Time log Wessel
 |27-07-21|14:30-16:30|First draft of the architecture|...|
 |28-07-21|9:30-10:00|Daily standup|Decided to do research all day|
 |28-07-21|10:00-12:00|AWS architecture and migration research|...|
+|28-07-21|13:00-14:30|Aws Multi tier research|...|
+|28-07-21|14:30-15:00|research Itility|...|
+|28-07-21|15:00-16:30|Itility workshop|...|
+|29-07-21|9:00-9:30|Dag opening|...|
+|29-07-21|15:00-17:00|Architecture research|...|
+|...|...|...|...|
+|...|...|...|...|
+|...|...|...|...|
+|...|...|...|...|
 |...|...|...|...|
 |...|...|...|...|
 
