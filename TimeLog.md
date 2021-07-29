@@ -34,10 +34,10 @@ Time log Doreen
 |26-07-21|11:00|Create Documentation|Figuring a way to implement this directly into Github|
 |27-07-21|10:00|Continue Doc and upload to Github||
 |27-07-21|11:00-16:30|Researching basic architectures|Help kickstart the project|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
+|28-07-21|10:00|Research the design and migration|reading several whitepapers|
+|29-07-21|10:00 - 12:00|Deciding on design|Going through whitepapers|
+|29-07-21|13:00|Experiment in the management console|Make a start with several cloud services|
+|29-07-21|15:00|Work on documentation|
 |...|...|...|...|
 
 Time log Lior
