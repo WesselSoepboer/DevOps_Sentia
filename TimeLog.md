@@ -16,8 +16,8 @@ Time log Wessel
 |29-07-21|9:00-9:30|Dag opening|...|
 |29-07-21|15:00-17:00|Architecture research|...|
 |30-07-21|9:00-10:00|Opening|...|
-|...|...|...|...|
-|...|...|...|...|
+|30-07-21|10:00-11:00|Architecture diagram maken|...|
+|30-07-21|11:00-12:00|Research and learn terraforming|...|
 |...|...|...|...|
 |...|...|...|...|
 |...|...|...|...|
