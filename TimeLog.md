@@ -18,8 +18,8 @@ Time log Wessel
 |30-07-21|9:00-10:00|Opening|...|
 |30-07-21|10:00-11:00|Architecture diagram maken|...|
 |30-07-21|11:00-12:00|Research and learn terraforming|...|
-|...|...|...|...|
-|...|...|...|...|
+|30-07-21|13:00-16:30|Research|...|
+|02-08-21|9:10-12:00|Experimenting in AWS console|...|
 |...|...|...|...|
 
 Time log Oualid
