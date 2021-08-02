@@ -47,6 +47,8 @@ Time log Doreen
 |29-07-21|10:00 - 12:00|Deciding on design|Going through whitepapers|
 |29-07-21|13:00|Experiment in the management console|Make a start with several cloud services|
 |29-07-21|15:00|Work on documentation|
+|30-07-21|09:30|Research|
+|02-08-21|09:30|Research and architecture design|
 |...|...|...|...|
 
 Time log Lior
