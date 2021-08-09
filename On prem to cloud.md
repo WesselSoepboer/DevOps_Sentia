@@ -22,7 +22,7 @@ Currently in use:
         1. Link: [https://aws.amazon.com/getting-started/hands-on/move-to-managed/migrate-mongodb-to-documentdb/](https://aws.amazon.com/getting-started/hands-on/move-to-managed/migrate-mongodb-to-documentdb/)
 
 2. An FTP server for document storage
-    1. Use amazon transfer family naar een efs aan een ec2 of s3(S3 is managed)
+    1. (Use amazon transfer family naar een) S3 is managed
 3. Maintain a cron server, mostly Bash and Python scripts, relevant to a small amount of jobs that need to be executed a few timer per day(no more than once per hour).
     1. AWs Lambda?
     2. Amazon CloudWatch(CloudWatch events
