@@ -74,7 +74,11 @@ Time log Doreen
 |30-07-21|09:30|Research|
 |02-08-21|09:30|Research and architecture design|
 |03-08-21|09:30|Research Transfer Family & work on diagram|
-|04-08-21|09:03|Research and setting up Cloudformation|
+|04-08-21|09:30|Research and setting up Cloudformation|
+|09-08-21|09:30|Working on Documentation|
+|10-08-21|09:30|Diagram & visualizing presentation|
+|11-08-21|09:30|Finishing touches in the management console|
+|12-08-21|09:30|Creating Presentation with team|
 |...|...|...|...|
 
 Time log Lior
