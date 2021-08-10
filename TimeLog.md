@@ -85,11 +85,18 @@ Time log Lior
 
 |Date|Time|Task|Comments|
 |----|----|----|--------|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
+|26-07-2021|9:30|research project|...|
+|27-07-2021|9:30|research project|...|
+|28-07-2021|9:30|research project|...|
+|29-07-2021|9:30|research project|...|
+|30-07-2021|9:30|research project|...|
+|02-08-2021|9:30|research Lambda and lambda in consol|...|
+|03-08-2021|9:30|research Lambda and lambda in consol|...|
+|04-08-2021|9;30|research Lambda and lambda in consol|...|
+|05-08-2021|9:30|Lambda in consol|...|
+|06-08-2021|9:30|Lambda in consol|...|
+|09-08-2021|9:30|Lambda in consol and documentation|...|
+|10-08-2021|9:30|documentation and dashboard|...|
+|11-08-2021|9:30|dashboard and prepartion presentation project|...|
+|12-08-2021|9:30|dashboard and prepartion presentation project|...|
+|13-08-2021|9:30|presentation project|...|
