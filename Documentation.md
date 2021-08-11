@@ -116,7 +116,7 @@ ________________
 5. IAC Project for deploying an MVP demo
 ________________
 
-IAC CloudFormation Template 
+https://github.com/WesselSoepboer/DevOps_Sentia/blob/main/Sentiacloud.2
 ________________
 
 
