@@ -51,13 +51,21 @@ Time log Oualid
 |Date|Time|Task|Comments|
 |----|----|----|--------|
 |26-07-21|13:00-16:00|Making a planning|well done with the team|
-|27-07|10:00-12:00|Self study ElasticSearch service and Well architected and Kibana||
-|27-07|13:30-16:00|...|...|
+|27-07|10:00-16:00|Self study ElasticSearch service and Well architected||
 |28-07|10:00-11:00|Studying the 6 R's Strategeis|Youtube|
-|28-07|11:00|Figure out which strategie we need to use for our project|as a team maybe?|
-|...|...|...|...|
-|...|...|...|...|
-|...|...|...|...|
+|28-07|11:00|Figure out which strategie we need to use for our project|as a team|
+|29-07|09:30-16:00|Migration steps|...|
+|30-07|09:30-16:00|Researching services|...|
+|02-08|13:30-16:30|Researcing services|...|
+|03-08|09:30-16:00|Reseaching services|--------|
+|04-08|09:30-16:00|Reseaching services|--------|
+|05-08|09:30-16:00|Reseaching services|--------|
+|06-08|09:30-12:00|Choosing best services to use |Camparing|
+|09-08|09:30-16:00|Experimenting in AWS console|EBS, Quicksight...|
+|10-08|09:30-16:00|Documentation|--------|
+|11-08|09:30-16:00|Making the presentation|--------|
+|12-08|09:30-16:00|Preparing for the presentation|--------|
+|13-08|09:30-16:00|Day of the presentation|--------|
 
 Time log Doreen
 
